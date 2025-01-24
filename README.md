@@ -8,6 +8,7 @@ A chatbot which is hosted via streamlit providing a basic chat interface locally
 <p> Langchain</p>
 <p> Streamlit for hosting</p>
 <p> Ollama Framework LLama LLM model </p>
+<p> Ollama Framework custom LLM model </p>
 <br>
 <h2>Future Workings</h2>
 <p>End-to-End Deployment</p>
