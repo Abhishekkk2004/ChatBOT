@@ -2,7 +2,7 @@
 A chatbot which is hosted via streamlit providing a basic chat interface locally in our device using the Ollama framework
 <p>In the initial version, We are not having memory function enabled</p>
 <hr>
-<p>In the next versions, Memory function would be worked upon</p>
+<p>In the next versions, Memory function would be worked upon.</p>
 <br>
 <h2>Technologies used</h2>
 <p> Langchain</p>
