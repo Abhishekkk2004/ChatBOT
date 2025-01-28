@@ -13,3 +13,12 @@ A chatbot which is hosted via streamlit providing a basic chat interface locally
 <h2>Future Workings</h2>
 <p>End-to-End Deployment</p>
 <p>Hosting in any cloud service</p>
+<br>
+<h2>Update 1</h2>
+<p>Memory Function implemented. Now it can have memory just like chatgpt corresponding to an individual user id</p>
+<p>Streaming of text while the response is generated</p>
+<p>Better UI/UX</p>
+<br>
+<h2>Upcoming possible updates</h2>
+<p>Integration of ChatPDF with ChatBOT making it an wholesome application</p>
+<p>Better layouts</p>
