@@ -22,3 +22,4 @@ A chatbot which is hosted via streamlit providing a basic chat interface locally
 <h2>Upcoming possible updates</h2>
 <p>Integration of ChatPDF with ChatBOT making it an wholesome application</p>
 <p>Better layouts</p>
+<p> Working with agents and tools</p>
