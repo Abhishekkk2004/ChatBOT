@@ -5,7 +5,7 @@ A chatbot which is hosted via streamlit providing a basic chat interface locally
 <p>In the next versions, Memory function would be worked upon.</p>
 <br>
 <h2>Technologies used</h2>
-<p> Langchain</p>
+<p> Langchainaa</p>
 <p> Streamlit for hosting</p>
 <p> Ollama Framework LLama LLM model </p>
 <p> Ollama Framework custom LLM model </p>
